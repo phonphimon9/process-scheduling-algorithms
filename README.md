@@ -29,7 +29,7 @@
 
 1. **Clone โปรเจกต์จาก GitHub**
    ```bash
-   git clone https://github.com/username/process-scheduling-algorithms.git
+   git clone https://github.com/phonphimon9/process-scheduling-algorithms.git
    cd process-scheduling-algorithms
    ```
 

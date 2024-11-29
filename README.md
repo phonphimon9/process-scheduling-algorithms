@@ -34,7 +34,7 @@
    ```
 
 2. **ติดตั้ง Python (ถ้ายังไม่ได้ติดตั้ง)**  
-   ตรวจสอบให้แน่ใจว่าคุณติดตั้ง [Python 3.6+](https://www.python.org/downloads/) และเพิ่ม Python ลงในระบบ PATH เรียบร้อยแล้ว
+   ตรวจสอบให้แน่ใจว่าคุณติดตั้ง [Python 3.13+](https://www.python.org/downloads/) และเพิ่ม Python ลงในระบบ PATH เรียบร้อยแล้ว
 
 3. **ติดตั้ง Dependencies (ถ้ามี)**  
    ในกรณีที่มีไฟล์ `requirements.txt` ให้ใช้คำสั่งนี้:
